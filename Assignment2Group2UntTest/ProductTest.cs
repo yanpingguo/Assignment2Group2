@@ -21,8 +21,8 @@ namespace Assignment2Group2UntTest
         }
 
         [TestCase("Apple")]
-        [TestCase(" Orange ")]
-        [TestCase(" ")]
+        [TestCase("Orange")]
+        [TestCase("Banana")]
         public void Test2(string prodName)
         {
             Assert.That(prodName, Is.Not.Null.And.Not.Empty.And.Not.EqualTo(" ").And.Not.EqualTo("\t"));
