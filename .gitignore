@@ -1,0 +1,87 @@
+# Dependency directories (Node.js / Python / Java / .NET / Rust / Go)
+node_modules/
+vendor/
+target/
+bin/
+obj/
+build/
+dist/
+out/
+
+# Operating system generated files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+desktop.ini    # Windows
+ehthumbs.db    # Windows
+Icon?          # macOS
+._*            # macOS
+.fseventsd/    # macOS
+Spotlight-V100 # macOS
+.Trashes       # macOS
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+config.json
+*.config.js
+*.config.ts
+secrets.json
+*.pem  # SSL certificates
+*.key  # SSL keys
+
+# Temporary & cache files
+*.swp       # Vim swap files
+*.swo       # Vim swap files
+*.bak       # Backup files
+*.tmp       # Temporary files
+*.~         # Backup files
+*.lock      # Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Compiled & generated files
+*.exe
+*.out
+*.dll
+*.class
+*.jar
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Version control
+.hg/
+.svn/
+.cvsignore
+.git/
+.gitignore
+
+# Code editors & IDE configuration files
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# macOS & Linux temporary files
+*.pid
+*.sock
+*.nib
+*.so
+
+# Windows temporary files
+ntuser.dat*
+ntuser.ini
+*.lnk
