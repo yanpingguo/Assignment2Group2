@@ -1,0 +1,14 @@
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\bin\Debug\net8.0\Assignment2Group2.exe
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\bin\Debug\net8.0\Assignment2Group2.deps.json
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\bin\Debug\net8.0\Assignment2Group2.runtimeconfig.json
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\bin\Debug\net8.0\Assignment2Group2.dll
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\bin\Debug\net8.0\Assignment2Group2.pdb
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.AssemblyInfoInputs.cache
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.AssemblyInfo.cs
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.csproj.CoreCompileInputs.cache
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.dll
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\refint\Assignment2Group2.dll
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.pdb
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\Assignment2Group2.genruntimeconfig.cache
+D:\CP\Level4\SoftwareQA\A2\A2Group2\Assignment2Group2\Assignment2Group2\obj\Debug\net8.0\ref\Assignment2Group2.dll
